@@ -131,7 +131,6 @@
     }
     .menu ul {
         opacity: 0;
-        visibility: hidden;
         height: 0;
     }
     .slider-text h3 {
